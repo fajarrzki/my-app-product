@@ -14,7 +14,7 @@ function Hero() {
             </p>
         </div>
             <div className="w-full h-full justify-center hidden lg:flex">
-                <img src="/public/img/image-1.png" className="h-96" />
+                <img src="../img/image-1.png" className="h-96" />
             </div>
     </div>
   </>
